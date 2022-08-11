@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculator</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    
+    <div class="main-content">
+        <form action="" name="Calculator">
+            <h6>Calculator</h6>
+            <br>
+
+            <!-- Inputs to viw the result and reload -->
+            <input type="text" class="textview" name="textone" disabled>
+            <input type="text" class="textreset" name="texttwelve"  value="C" onclick="clean()"><br>
+
+            <!-- Keys from 7 to 9 and Times symbol -->
+            <input type="button" class="nummain" name="btn7" value="7" 
+                onclick="displayNum('7')">
+            <input type="button" class="nummain" name="btn8" value="8" 
+                onclick="displayNum('8')">
+            <input type="button" class="nummain" name="btn9" value="9" 
+                onclick="displayNum('9')">
+            <input type="button" class="numtimes" name="addtimes" value="*" 
+                onclick="displayNum('*')"><br>
+
+                <!-- Keys from 4 to 6 and Subtract symbol -->
+            <input type="button" class="nummain" name="btn4" value="4" 
+                onclick="displayNum('4')">
+            <input type="button" class="nummain" name="btn5" value="5" 
+                onclick="displayNum('5')">
+            <input type="button" class="nummain" name="btn6" value="6" 
+                onclick="displayNum('6')">
+            <input type="button" class="numsub" name="addsub" value="-" 
+                onclick="displayNum('-')"><br>
+
+                <!-- Keys from 1 to 3 and Plus symbol -->
+            <input type="button" class="nummain" name="btn1" value="1" 
+                onclick="displayNum('1')">
+            <input type="button" class="nummain" name="btn2" value="2" 
+                onclick="displayNum('2')">
+            <input type="button" class="nummain" name="btn3" value="3" 
+                onclick="displayNum('3')">
+            <input type="button" class="numplus" name="addplus" value="+" 
+                onclick="displayNum('+')"><br>
+
+                <!-- Dot symbol, number zero, Equal and Divide symbols-->
+            <input type="button" class="nummain" name="btndot" value="." 
+                onclick="displayNum('.')">
+            <input type="button" class="nummain" name="btn0" value="0" 
+                onclick="displayNum('0')">
+            <input type="button" class="numequal" name="btnequal" value="=" 
+                onclick="equal()"> 
+            <input type="button" class="numdiv" name="btndiv" value="/" 
+                onclick="displayNum('/')"> <br>
+        </form>
+
+    </div>
+</body>
+<script src="script.js"></script>
+</html>
