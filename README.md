@@ -1,8 +1,7 @@
 
-# Calculadora funcional
+# Calculadora funcional com entrada de valores também pelo teclado
 
-Criei essa calculadora com Html, Css, Javascript.
-Ela possui as 4 operações e eu tinha a ideia inicial de que ela permitisse inserir valores através do teclado, levou um tempo mas consegui.
+Criei essa calculadora com Html, Css, Javascript e ela possui as 4 operações básicas, eu tinha a ideia inicial de que ela permitisse inserir valores através do teclado, levou um tempo mas consegui.
 
 ![](calculators.gif)
 
