@@ -6,7 +6,7 @@ Criei essa calculadora com Html, Css, Javascript e ela possui as 4 operações b
 ![](calculators.gif)
 
 
-<h1>Mensagem aos recrutadores da Mentes Notaveis </h1>
+<h2>Bugs </h2>
 
 Tem alguns bugs na calculadora que eu não consegui ajustar ainda.
 <br>
