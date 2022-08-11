@@ -3,7 +3,8 @@
 
 Criei essa calculadora com Html, Css, Javascript e ela possui as 4 operações básicas, eu tinha a ideia inicial de que ela permitisse inserir valores através do teclado, levou um tempo mas consegui.
 
-![](calculators.gif)
+![calculators](https://user-images.githubusercontent.com/101435336/184157651-27bf6686-cfa3-403b-bdff-8957576d31ae.gif)
+)
 
 
 <h2><em>Bugs</em> </h2>
