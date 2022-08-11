@@ -1,5 +1,5 @@
 
-# Calculadora funcional com entrada de valores também pelo teclado
+# <em>Calculadora funcional com entrada de valores também pelo teclado</em>
 
 Criei essa calculadora com Html, Css, Javascript e ela possui as 4 operações básicas, eu tinha a ideia inicial de que ela permitisse inserir valores através do teclado, levou um tempo mas consegui.
 
@@ -14,7 +14,7 @@ Tem alguns bugs na calculadora que eu não consegui ajustar ainda.
 <br>
 2° Ao iniciar a calculadora ela em algumas vezes pode fazer a operação errada, basta limpar ela antes de usar.
 
-<h1>Mensagem aos recrutadores da Mentes Notaveis </h1>
+<h2>Mensagem aos recrutadores da Mentes Notaveis </h2>
 Eu amei a empresa  e o propósito de vocês, eu tenho um irmão pequeno e eu sempre pensei em inserir a programação pra ele pra que ele não perca tempo como eu.
 E falando de coração eu amei a empresa, e não falo isso por estar em processo seletivo mas porque vocês estão mudando o futuro.
 <br>
