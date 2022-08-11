@@ -1,5 +1,3 @@
-# Calculator-Project
-Calculadora funcional que aceita inserção de valores através do teclado.
 
 # Calculadora funcional
 
@@ -15,7 +13,7 @@ Tem alguns bugs na calculadora que eu não consegui ajustar ainda.
 1° O botão de limpar  ao clicar ele fica com o cursor de inserção de texto.
 2° Ao iniciar a calculadora ela em algumas vezes pode fazer a operação errada, basta limpar ela antes de usar.
 
-# Mensagem aos recrutadores da Mentes Notaveis
+<h1>Mensagem aos recrutadores da Mentes Notaveis </h1>
 Eu amei a empresa  e o propósito de vocês, eu tenho um irmão pequeno e eu sempre pensei em inserir a programação pra ele pra que ele não perca tempo como eu.
 E falando de coração eu amei a empresa, e não falo isso por estar em processo seletivo mas porque vocês estão mudando o futuro.
 <br>
