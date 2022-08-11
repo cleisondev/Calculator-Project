@@ -15,6 +15,7 @@
 <ul>
 <li>A calculadora aceita inserção de valores pelo teclado ou pelo click do mouse.</li>
 <li>Ao iniciar a aplicação primeiramente limpe a tela, pois notei alguns bugs ao tentar operar assim que abrir sem resetar.</li>
+<li>Eu inclui apenas as funções da calculadora, o "Enter para ver o resultado" e o "Backspace pra resetar"</li>
 </ul>
 
 <h2><em>Mensagem aos recrutadores da Mentes Notaveis ️⚛️ </em></h2>
