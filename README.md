@@ -6,10 +6,12 @@ Criei essa calculadora com Html, Css, Javascript e ela possui as 4 operações b
 ![](calculators.gif)
 
 
-#Bugs
+<h1>Mensagem aos recrutadores da Mentes Notaveis </h1>
 
 Tem alguns bugs na calculadora que eu não consegui ajustar ainda.
+<br>
 1° O botão de limpar  ao clicar ele fica com o cursor de inserção de texto.
+<br>
 2° Ao iniciar a calculadora ela em algumas vezes pode fazer a operação errada, basta limpar ela antes de usar.
 
 <h1>Mensagem aos recrutadores da Mentes Notaveis </h1>
